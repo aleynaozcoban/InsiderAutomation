@@ -1,0 +1,17 @@
+# Python cache ve derleyici dosyaları
+__pycache__/
+*.pyc
+
+# Sanal ortam klasörü (virtual env)
+.venv/
+venv/
+
+# PyCharm ayarları
+.idea/
+
+# Log dosyaları
+*.log
+
+# Sistem dosyaları
+.DS_Store
+Thumbs.db
