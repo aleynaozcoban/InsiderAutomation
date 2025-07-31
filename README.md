@@ -49,7 +49,6 @@
 <li class="has-line-data" data-line-start="55" data-line-end="56">Locations (Lokasyonlar)</li>
 <li class="has-line-data" data-line-start="56" data-line-end="57">Teams (Takımlar)</li>
 <li class="has-line-data" data-line-start="57" data-line-end="58">Life at Insider (Insider’da Yaşam)</li>
-<li class="has-line-data" data-line-start="58" data-line-end="60">Job Widget (İş İlanları Bölümü)</li>
 </ul>
 </li>
 </ol>
@@ -95,7 +94,7 @@
 <li class="has-line-data" data-line-start="89" data-line-end="90">Department: Quality Assurance</li>
 </ul>
 </li>
-<li class="has-line-data" data-line-start="90" data-line-end="91">İlk iş ilanındaki “View Role” butonuna tıklanır.</li>
+<li class="has-line-data" data-line-start="90" data-line-end="91">İkinci iş ilanındaki “View Role” butonuna tıklanır.</li>
 <li class="has-line-data" data-line-start="91" data-line-end="93">Yeni sekmenin açıldığı ve URL’nin <code>https://jobs.lever.co/useinsider</code> ile başladığı doğrulanır.</li>
 </ol>
 <p class="has-line-data" data-line-start="93" data-line-end="95">Ekran Görüntüleri<br>
