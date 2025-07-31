@@ -1,14 +1,4 @@
-Services
-Documents
-InsiderAutomation.md
-Preview as 
-Export as 
-Save to 
-Import from 
-Document Name
-InsiderAutomation.md
-MarkdownPreviewToggle Mode
-  
+
 <h1 class="code-line" data-line-start=0 data-line-end=1 ><a id="InsiderAutomation_0"></a>InsiderAutomation</h1>
 <p class="has-line-data" data-line-start="1" data-line-end="2">Test Otomasyon Projesi</p>
 <h1 class="code-line" data-line-start=3 data-line-end=4 ><a id="InsiderAutomation_3"></a>InsiderAutomation</h1>
